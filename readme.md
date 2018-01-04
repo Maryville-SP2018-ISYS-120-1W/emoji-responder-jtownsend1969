@@ -1,4 +1,4 @@
-# Week 4 Lecture Development Example: Emoji Responder
+# In Class Example: Emoji Responder
 
 ### Lecture Development Examples Overview
 
